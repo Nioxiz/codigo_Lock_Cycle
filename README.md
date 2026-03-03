@@ -23,7 +23,7 @@ Após a fase de ideação, partimos para a construção do protótipo. Utilizamo
 Abaixo está a primeira imagem da ideia inicial do sistema:
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e1055098-a577-4eec-8031-6ca9a4bec9d9" />
-<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/f090149e-2c8f-4354-ac91-0dc0b4186c9f" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/f090149e-2c8f-4354-ac91-0dc0b4186c9f" />
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
